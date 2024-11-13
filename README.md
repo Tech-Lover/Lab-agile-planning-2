@@ -1,1 +1,1 @@
-# Lab-agile-planning-2
+# agile-fianl-project
